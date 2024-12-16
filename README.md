@@ -5,7 +5,7 @@ Qurno made with MDX and TailwindCSS. It has all the required elements and featur
 
 [Watch on Youtube](https://youtu.be/sHc0JqEo4aI)
 
-![image](https://github.com/user-attachments/assets/fd35112a-1823-42f7-a41e-b111e489f60b)
+[![image](https://github.com/user-attachments/assets/fd35112a-1823-42f7-a41e-b111e489f60b)](https://qurno-astro.vercel.app/)
 
 
 Features:
@@ -34,6 +34,6 @@ Features:
 - it has Privacy page
 - **Valid code & Mobile ready layout**
 
-| ![Astro Blog Theme](https://github.com/user-attachments/assets/ee9a1cd7-b2a2-4ef0-9028-2908d9f160fe) | ![astrojs blog](https://github.com/user-attachments/assets/0f1913d4-640a-4e2d-9985-a7ee5b917e64) |
+| [![Astro Blog Theme](https://github.com/user-attachments/assets/ee9a1cd7-b2a2-4ef0-9028-2908d9f160fe)](https://qurno-astro.vercel.app/) | [![astrojs blog](https://github.com/user-attachments/assets/0f1913d4-640a-4e2d-9985-a7ee5b917e64)](https://qurno-astro.vercel.app/) |
 |:---:|:---:|
-| ![astro blog template](https://github.com/user-attachments/assets/b5f9b93c-ed7d-4e8e-8968-c326db5efed9) | ![premium astrojs blog theme](https://github.com/user-attachments/assets/31206e2d-80cb-464b-9147-8fc221bdf20f) |
+| [![astro blog template](https://github.com/user-attachments/assets/b5f9b93c-ed7d-4e8e-8968-c326db5efed9)](https://qurno-astro.vercel.app/) | [![premium astrojs blog theme](https://github.com/user-attachments/assets/31206e2d-80cb-464b-9147-8fc221bdf20f)](https://qurno-astro.vercel.app/) |
