@@ -3,7 +3,7 @@
 
 Qurno made with MDX and TailwindCSS. It has all the required elements and features (like: Link Preview, Code Highlighting etc) to create a mobile ready blog website with amazing experience. It’s support gallery and single image with zoom effect and it also has lot more elements to make a perfect blog site.
 
-[Watch on Youtube](https://youtu.be/sHc0JqEo4aI)
+[🔴 Watch on Youtube](https://youtu.be/sHc0JqEo4aI) ‎ ‎ -‎  [🖥 Live Demo](https://qurno-astro.vercel.app/) ‎ ‎ -‎  [🔽 Download](https://platol.lemonsqueezy.com/buy/fd99fe19-d32e-44fb-a97f-c75935e4b784)
 
 [![image](https://github.com/user-attachments/assets/fd35112a-1823-42f7-a41e-b111e489f60b)](https://qurno-astro.vercel.app/)
 
