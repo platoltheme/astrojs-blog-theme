@@ -12,7 +12,7 @@ Features:
 - **3 Homepage** included personal homepage layout
 - Google PageSpeed — **92**_(Mobile)_ — **100**_(Desktop)_
 - **TinaCMS Included** TinaCMS config (ready to use)
-- **TailwindCSS** Made with TailwindCSS
+- Made with latest **Astro v5.13** and **TailwindCSS v4.1**
 - **Layout**: Minimal design with 3 Homepage Layout
 - **Post Layout**: Adjust the Column of posts per Row
 - **Theme Switcher**: Supports Dark and Light mode
